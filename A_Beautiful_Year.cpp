@@ -1,4 +1,4 @@
-//4022146   Jul 4, 2013 8:34:23 PM	fuwutu	 271A - Beautiful Year	 GNU C++0x	Accepted	15 ms	0 KB
+
 #include <iostream>
 
 using namespace std;
